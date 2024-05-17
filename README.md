@@ -9,10 +9,10 @@ for this course.
 ## Assignments
 
 - [Assignment 1](assignments/a1/a1.md)
-- [Assignment 2](assignments/a2/a2.md)
-- [Assignment 3](assignments/a3/a3.md). [Sample solution (includes sample solution to assignment 2)](assignments/a3/a3_sample_solution.zip).
-- [Assignment 4](assignments/a4/a4.md)
-- [Assignment 5](assignments/a5/a5.md)
+- Assignment 2
+- Assignment 3
+- Assignment 4
+- Assignment 5
 
 ## Sample Exams
 
@@ -30,6 +30,8 @@ that shows the remaining time in an exam.
 
 
 ## Dr. Donaldson's Lecture Notes
+
+**NOTE**: Dates are inaccurate and will be updated soon for the Fall 2024 semester.
 
 ### Week 1
 - [Read chapter 1: Introduction (all)](https://runestone.academy/ns/books/published/120fall2022surrey/GeneralIntro/toctree.html)
