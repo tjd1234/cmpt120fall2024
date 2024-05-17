@@ -132,8 +132,7 @@ class.
 - Tue Dec 6: last day of SFU classes for Fall 2022
 
 
-## Exam Period: Wed Dec 7 to Mon December 19
+## Exam Period: Thu Dec 5 to Tue December 17
 
-The day and time of the CMPT 120 final exam was announced by the university part
-way through the semester, and is published on
-[Canvas](https://canvas.sfu.ca/courses/73212).
+The day and time of the CMPT 120 final exam will be announced by the university
+part way through the semester, and is published on Canvas.
