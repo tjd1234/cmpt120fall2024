@@ -283,8 +283,8 @@ while i < 5:
 print('Go!')   # never printed
 ```
 
-**Example** Here is an example of a function that may, or may not, loop
-forever --- no one knows!
+**Example** Here is an example of a function that may, or may not, loop forever
+--- no one knows!
 
 ```python
 def collatz_step(n):
@@ -308,19 +308,18 @@ def collatz(n):
     print(f'{step_count} steps to reduce {original_n} to 1')
 ```
 
-The [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture)
-says that for all positive integers `n`, `collatz(n)` prints 1. Another way of
+The [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) says
+that for all positive integers `n`, `collatz(n)` prints 1. Another way of
 stating this conjecture is that there is *no* positive integer `n` that causes
 `collatz(n)` to loop forever.
 
-Despite being
-so simple to state, currently no one knows if the conjecture is true or false.
-It is one of the most famous unsolved problems in mathematics.
+Despite being so simple to state, currently no one knows if the conjecture is
+true or false. It is one of the most famous unsolved problems in mathematics.
 
 Computers have checked that `collatz(n)` prints 1 for all values of `n` up to
-$2^{68}$. So if there is a number that makes
+$2^{68}$. So if there is a number that makes it loop forever, it's bigger than
+that.
 
-The [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture)
-isn't very practical. But it's a nice example that shows how even short and
-simple-looking programs can behave in ways that we don't completely
-understand.
+The [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) isn't
+very practical. But it shows that even short and simple-looking programs can
+behave in ways that we don't completely understand.

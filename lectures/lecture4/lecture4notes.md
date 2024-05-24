@@ -16,8 +16,8 @@ print('Average:', average)  # statement 6
 
 Later we will see more complex statements, such as if-statements and loops.
 
-An **expression** is a combination of values, variables, operators, and calls
-to functions. These are all examples of expressions:
+An **expression** is a combination of values, variables, operators, and calls to
+functions. These are all examples of expressions:
 
 ```python
 34.22   # values are expressions
@@ -33,7 +33,7 @@ len('shoe')  # len is a built-in function that
 ```
 
 We **evaluate** expressions to get a simpler value. The Python interactive
-interpreter will tell us the value of an expression:
+interpreter evaluates expressions:
 
 ```python
 >>> 2 * (3 + 1)

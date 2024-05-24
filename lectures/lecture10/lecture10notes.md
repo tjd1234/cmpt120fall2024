@@ -4,11 +4,12 @@
 
 It's traditional to call the first function of your program `main`. In C++ and
 Java, for example, you *must* have a function called `main` in every program.
+When the program starts, it always starts by calling `main`.
 
-Python doesn't *require* a `main()` function, but it's usually a good idea to
-have one because it tells people where to start reading your code. Python
-programs can consist of hundreds of functions, and agreeing that `main()` is
-the first function called makes it easier to read.
+Python doesn't *require* a `main()` function, but it's a good idea to have one
+because it tells people where to start reading your code. Python programs can
+consist of hundreds of functions, and knowing that `main()` is the first
+function called makes it easier to read.
 
 Consider this program:
 

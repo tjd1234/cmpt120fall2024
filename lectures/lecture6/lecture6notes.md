@@ -238,12 +238,12 @@ The function `random.shuffle` scrambles the elements of a list:
 
 ## Making Your Own Modules
 
-It's quite easy to make your own Python modules. For example, suppose you want
-to write a module that helps you create chatbots. First put your
-chatbot-related variables and functions in `chatbot.py` as usual. Then you can
-call them in another file using an `import chatbot` statement. As we saw
-above, you will need to use dot-notation, e.g. in the importing file you have
-to write `chatbot.say('Hello')` or `chatbot.set_name('Eliza')`.
+It's easy to make your own Python modules. For example, suppose you want to
+write a module that helps you create chatbots. First put your chatbot-related
+variables and functions in `chatbot.py` as usual. Then you can call them in
+another file using an `import chatbot` statement. As we saw above, you will need
+to use dot-notation, e.g. in the importing file you have to write
+`chatbot.say('Hello')` or `chatbot.set_name('Eliza')`.
 
 We won't go into any more details here since we haven't covered functions yet,
 but we will see modules again later.

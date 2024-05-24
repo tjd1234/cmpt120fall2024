@@ -101,6 +101,9 @@ important:
 5
 ```
 
+It's often useful to think of a variable as like a box with a name on it. The
+box can only contain one value at a time.
+
 ## Keywords
 
 Python reserves about 35 names for **keywords**:
@@ -109,12 +112,14 @@ Python reserves about 35 names for **keywords**:
 >>> import keyword
 >>> keyword.kwlist
 ['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+>>> len(keyword.kwlist)
+35
 ```
 
 You **cannot** use a keyword as a variable name.
 
 **Rule of thumb**: choose **self-descriptive variable names** that give humans
-a hint about what their purpose.
+a hint about their purpose.
 
 
 ## Example: chatbots
@@ -123,9 +128,8 @@ A **chatbot** is a program that converses with a user.
 
 Here's [a transcript of a chat with
 Eliza](http://psych.fullerton.edu/mbirnbaum/psych101/eliza.htm), [one of the
-first and most famous chatbots of all
-time](https://en.wikipedia.org/wiki/ELIZA). Eliza emulates a psychiatrist, and
-tries to help people with their problems:
+first of all time](https://en.wikipedia.org/wiki/ELIZA). Eliza emulates a
+psychiatrist, and tries to help people with their problems:
 
 ``` 
 #
