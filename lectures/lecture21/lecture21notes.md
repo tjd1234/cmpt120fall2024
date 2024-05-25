@@ -6,10 +6,10 @@ also a few larger examples of functions that use strings.
 
 ## String Methods
 
-Python strings come with a number of built-in **methods** that do various
-useful things. Here are examples of a few of them. It's important to keep in
-mind that none of these methods actually change the string they are operating
-on (because strings are immutable in Python), and instead they make copies:
+Python strings come with a number of built-in **methods** that do various useful
+things. Here are examples of a few of them. It's important to keep in mind that
+none of these methods actually change the string they are operating on (because
+strings are immutable in Python), and instead they make copies:
 
 ```
 >>> s = 'IBM is Big Blue'
@@ -72,8 +72,8 @@ True                                     # convert to lower case, and
                                          # check if it starts with 'done'
 ```
 
-**Question** Suppose the `strip()` method didn't exist. How could you
-implement it using `lstrip()` and `rstrip()`?
+**Question** Suppose the `strip()` method didn't exist. How could you implement
+it using `lstrip()` and `rstrip()`?
 
 
 ## Example: Our Own String Equality Checking Function
@@ -125,25 +125,23 @@ False
 
 `strings_equal` works as follows:
 
-- First it checks if the strings are the same length. If they're *not*, then
-  we know the strings can't be the same, and return `False` immediately.
+- First it checks if the strings are the same length. If they're *not*, then we
+  know the strings can't be the same, and return `False` immediately.
 
-- Second, if the strings are the same length, a loop goes through the
-  characters one by one, comparing each pair of characters at the same
-  location to see if they are the same. If they're different, we return
-  `False` immediately.
+- Second, if the strings are the same length, a loop goes through the characters
+  one by one, comparing each pair of characters at the same location to see if
+  they are the same. If they're different, we return `False` immediately.
 
 - Finally, if we get through the for-loop without returning `False`, then that
-  means all the characters in `s` and `t` are the same, and so we return
-  `True`.
+  means all the characters in `s` and `t` are the same, and so we return `True`.
 
 Notice that the amount of work the function does depends in part on where the
 first difference of characters appears. For example, `string_equal('x123456',
-'y123456')` returns `False` immediately after checking the first characters.
-But `string_equal('123456x', '123456y')` takes a little longer because the
-first six characters of each string are checked before getting to the
-different characters, `'x'` and `'y'`, at the end. If you are comparing a lot
-of very large strings, this speed difference might be noticeable.
+'y123456')` returns `False` immediately after checking the first characters. But
+`string_equal('123456x', '123456y')` takes a little longer because the first six
+characters of each string are checked before getting to the different
+characters, `'x'` and `'y'`, at the end. If you are comparing a lot of very
+large strings, this speed difference might be noticeable.
 
 With `strings_equal` written, it is easy to implement `strings_not_equal`:
 
@@ -169,8 +167,8 @@ we can implement it in a single line.
 
 ## Example: Checking if All Characters are the Same
 
-Let's write a function called `all_chars_same(s)` that returns `True` if all
-the characters in `s` are the same, and `False` otherwise:
+Let's write a function called `all_chars_same(s)` that returns `True` if all the
+characters in `s` are the same, and `False` otherwise:
 
 ```
 >>> all_chars_same('')
@@ -216,9 +214,9 @@ characters in the string are the same, and `True` is returned immediately.
 
 If the string is length 2 or greater, then the first character is saved in
 `first_char`, and we use a for-loop to go through every character in `s` and
-check if it's equal to `first_char`. If not, we can return `False`
-immediately. If we get through the entire loop, then all the characters must
-be the same, and `True` is returned.
+check if it's equal to `first_char`. If not, we can return `False` immediately.
+If we get through the entire loop, then all the characters must be the same, and
+`True` is returned.
 
 
 ## Example: Checking if All Characters are Different
@@ -235,13 +233,13 @@ def incorrect_all_chars_different(s):
 	return not all_same(s)
 ```
 
-The problem here is that all the characters not being the same doesn't mean
-they are all different. For example, the characters in the string `'baaa!` are
-not all the same, but they are also not all different (`'a'` is repeated).
+The problem here is that all the characters not being the same doesn't mean they
+are all different. For example, the characters in the string `'baaa!` are not
+all the same, but they are also not all different (`'a'` is repeated).
 
-So we need another approach. One idea is, for strings with 2 or more
-characters, to go through the characters one at a time and then use `not in`
-to make sure it doesn't appear in any of the characters after it:
+So we need another approach. One idea is, for strings with 2 or more characters,
+to go through the characters one at a time and then use `not in` to make sure it
+doesn't appear in any of the characters after it:
 
 
 ```python
@@ -280,24 +278,24 @@ False
 False
 ```
 
-`s[i]` is the character at location `i` in the string, and `s[i+1:]` is a
-slice starting at the first character *after* `s[i]` and continuing to the end
-of the string. In other wise, `s[i+1:]` is all the characters after `s[i]`.
+`s[i]` is the character at location `i` in the string, and `s[i+1:]` is a slice
+starting at the first character *after* `s[i]` and continuing to the end of the
+string. In other wise, `s[i+1:]` is all the characters after `s[i]`.
 
-The range of the loop is only up to `n-1`. If we used `n` instead then, when
-`i` is `n-1`, we would get a run-time when evaluating `s[i+1:]` because it
-would be the same as `s[(n-1)+1:]`, or `s[n:]`, which is an invalid slice.
+The range of the loop is only up to `n-1`. If we used `n` instead then, when `i`
+is `n-1`, we would get a run-time when evaluating `s[i+1:]` because it would be
+the same as `s[(n-1)+1:]`, or `s[n:]`, which is an invalid slice.
 
 
 ## Example: Checking for Long Lines
 
-A common restriction in Python source code is that each line of code ought to
-be no more than, say, 100 characters long. Long lines can make code harder to
-read, and it's usually better to break them up into shorter lines.
+A common restriction in Python source code is that each line of code ought to be
+no more than, say, 100 characters long. Long lines can make code harder to read,
+and it's usually better to break them up into shorter lines.
 
-In [print_long_lines.py](print_long_lines.py) we give a function that takes
-the name of a file as input, and prints just the lines in that file that are
-longer than some given length. Two useful helper functions, `chop` and
+In [print_long_lines.py](print_long_lines.py) we give a function that takes the
+name of a file as input, and prints just the lines in that file that are longer
+than some given length. Two useful helper functions, `chop` and
 `string_compress`.
 
 The files [test_long_lines.py](test_long_lines.py) and
@@ -318,12 +316,12 @@ The process for writing the `print_long_lines` function goes like this:
 - Implement the basic pseudocode for `print_long_lines`, *without* worrying
   about any details yet. For example, start by printing *every* line of the
   file.
-  - Something you will likely bump into here is that the lines read from a
-    text file usually end with `'\n'`. So we wrote the `chop(s)` function to
-    remove a `'\n` at the end of a string, if it has one.
+  - Something you will likely bump into here is that the lines read from a text
+    file usually end with `'\n'`. So we wrote the `chop(s)` function to remove a
+    `'\n` at the end of a string, if it has one.
 
-- Add new features to `print_long_lines` *one at a time*, and test it after
-  you add each feature. Some features to add:
+- Add new features to `print_long_lines` *one at a time*, and test it after you
+  add each feature. Some features to add:
 
   - a variable to keep track of the line numbers, to make the output more
     readable
@@ -333,8 +331,8 @@ The process for writing the `print_long_lines` function goes like this:
     followed by " ..."; this makes the output easier to read
   - improve the output lines by indenting them, and making them very easy to
     understand
-  - if no lines are too long, then print a message saying that; to help do
-    this, use a variable to count how many long lines are printed
+  - if no lines are too long, then print a message saying that; to help do this,
+    use a variable to count how many long lines are printed
   - count tab characters, `'\t'` as, say 4 spaces; some text editors uses tabs
     instead of spaces, so this would give a more accurate count
 
