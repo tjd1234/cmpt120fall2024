@@ -1,7 +1,7 @@
 ## Lecture 18 Notes
 
 This lecture is a case study of **converting to and from binary numbers**.
-It's good practice with loops, and computational thinking.
+It's good practice with loops, functions, and computational thinking.
 
 
 ### Base-10 Numbers
@@ -164,7 +164,7 @@ def dec_to_bits(n, num_bits):
     result = ''
     for i in range(num_bits):
         pow2 = 2 ** (num_bits - i - 1)
-        if n > pow2:
+        if n >= pow2:
             result += '1'
             n -= pow2
         else:
