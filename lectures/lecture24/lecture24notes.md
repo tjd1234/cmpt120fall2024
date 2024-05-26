@@ -5,7 +5,7 @@
 review of the solutions ([which are here](lecture24Quiz_sol.pdf)). [quiz.py](quiz.py) has
 implementations of the sample solutions.
 
-The notes below contain more examples of writing code to work with with lists.
+The notes below contain more examples of writing code to work with lists.
 
 
 ## Looping with Lists
