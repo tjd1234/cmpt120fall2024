@@ -3,9 +3,8 @@
 ## Overview
 
 **Recursion** is a deep and interesting idea with many applications in computer
-science, mathematics, and science. The general idea of recursion is that you can
-build a *big* out of *small* things that all look the same, but at different
-sizes. For example, here is a recursive picture called the [Sierpinski triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle):
+science, mathematics, and science. The general idea of recursion is to
+build a *big thing* out of *small* versions of the big thing. For example, here is a recursive picture called the [Sierpinski triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle):
 
 ![Sierpinski triangle](sierpinski_triangle_small.png)
 
@@ -18,8 +17,8 @@ Here's another example called the [Barnsley fern](https://en.wikipedia.org/wiki/
 
 Each leaf of the fern is made of smaller copies of the fern, again and again
 until it gets so small you can't see it. This looks impressively similar to real
-ferns, and so it seems that recursion is a process that nature itself sometimes
-follows.
+ferns, an observation which has lead many people to speculate that nature often
+uses recursive processes.
 
 Learning recursion in programming can be tricky, so we introduce it step-by-step
 in a practical way.
@@ -140,7 +139,7 @@ def f4_bad():
 
 `f4_bad` prints this:
 
-```
+```python
 >>> f4_bad()
 0. hello!
 0. hello!
@@ -168,7 +167,7 @@ def f4(count):
 
 It prints this:
 
-```
+```python
 >>> f4(0)    # must pass in the 0
 1. hello!
 2. hello!
@@ -203,7 +202,7 @@ def f4_bad_again(count):
 
 This prints:
 
-```
+```python
 >>> f4_bad_again(0)
 0. hello!
 0. hello!
@@ -223,7 +222,7 @@ until they crash. We never want out code to crash.
 An idea for fixing this is to pass in, as a parameter, how many times we want
 the line printed. For example, we want to be able to do this:
 
-```
+```python
 >>> f5(3)
 1. hello!
 2. hello!
@@ -251,7 +250,7 @@ def f5_imperfect(n):
 
 This works, although not perfectly:
 
-```
+```python
 >>> f5_imperfect(3)
 3. hello!
 2. hello!
@@ -279,7 +278,7 @@ def f5_better(n):
 
 For example:
 
-```
+```python
 >>> f5_better(3)
 0. hello!
 1. hello!
@@ -302,7 +301,7 @@ def f5(n):
 
 For example:
 
-```
+```python
 >>> f5(3)
 1. hello!
 2. hello!
@@ -316,7 +315,7 @@ See [recursion.py](recursion.py) for sample solutions to these exercises.
 1. Write a recursive function call `print_upto(n)` that prints the numbers from
    1 up to, and including n:
    
-   ```
+   ```python
    >>> print_upto(4)
    1
    2
@@ -327,7 +326,7 @@ See [recursion.py](recursion.py) for sample solutions to these exercises.
 2. Write a recursive function call `print_downfrom(n)` that prints the numbers
    from n down to 1:
    
-   ```
+   ```python
    >>> print_downfrom(4)
    4
    3
@@ -338,7 +337,7 @@ See [recursion.py](recursion.py) for sample solutions to these exercises.
 3. Write a recursive function called `my_range(n)` that returns (not prints!)
    the list `[0, 1, 3, ..., n-1]`:
    
-   ```
+   ```python
    >>> my_range(-2)
    []
    >>> my_range(1)
@@ -352,7 +351,7 @@ See [recursion.py](recursion.py) for sample solutions to these exercises.
 4. Write a recursive function called `say(s, n)` that prints the string `s` `n`
    times:
    
-   ```
+   ```python
    >>> say('hello', 3)
    hello
    hello
@@ -370,7 +369,7 @@ See [recursion.py](recursion.py) for sample solutions to these exercises.
 5. Write a recursive function called `fill(s, n)` that returns (not prints!) a
    new list with `n` copies of `s`:
    
-   ```
+   ```python
    >>> fill('hello', 3)
    ['hello', 'hello', 'hello']
    >>> fill('I like cheese!', 5)
@@ -385,7 +384,7 @@ See [recursion.py](recursion.py) for sample solutions to these exercises.
 Lets write a recursive function that returns the sum $$1 + 2 + 3 + \ldots + n$$.
 It should work like this:
 
-```
+```python
 >>> sum_to(3)
 6
 >>> sum_to(5)
@@ -481,7 +480,7 @@ def sum_to_mod(n):
 
 For example:
 
-```
+```python
 >>> sum_to_mod(5)
 sum_to_mod(5) called ...
 sum_to_mod(4) called ...
@@ -525,7 +524,7 @@ See [recursion.py](recursion.py) for sample solutions to these exercises.
 6. Write a recursive function called `sum_squares(n)` that returns the sum of
    the squares of the numbers from 1 to `n`, e.g. $$1^2 + 2^2 + \ldots + n^2$$:
    
-   ```
+   ```python
    >>> sum_squares(3)    
    14
    >>> sum_squares(5)
@@ -539,7 +538,7 @@ See [recursion.py](recursion.py) for sample solutions to these exercises.
 7. Write a recursive function called `range_string(n)` that returns a *string*
    containing the numbers from 1 to `n` separated by commas:
    
-   ```
+   ```python
    >>> range_string(0)
    ''
    >>> range_string(1)

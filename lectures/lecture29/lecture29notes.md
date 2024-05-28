@@ -79,7 +79,7 @@ In a Python dictionary, all the keys *must* be different: repeated keys are not
 allowed. However, values don't need to be unique: values can be repeated. For
 example, this is okay:
 
-```
+```python
 >>> age = {'Marge': 34, 'Homer': 36, 'Carl': 34}
 ```
 
@@ -88,7 +88,7 @@ people can have the same age.
 
 But this is a problem:
 
-```
+```python
 >>> bad_age = {'Marge': 34, 'Homer': 36, 'Marge': 35}  # oops, two Marge's
 >>> bad_age
 {'Marge': 35, 'Homer': 36}
@@ -100,7 +100,7 @@ first one, which may, or may not, be what you want.
 If you really do need to have two `'Marge'`s, then you should  probably change
 the keys:
 
-```
+```python
 >>> age = {'Marge 1': 34, 'Homer': 36, 'Marge 2': 35}  # okay, different keys for Marge
 >>> age
 {'Marge 1': 34, 'Homer': 36, 'Marge 2': 35}
