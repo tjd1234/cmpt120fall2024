@@ -41,12 +41,12 @@ easy to read on the web in a couple of ways.
 2. using the [Jupyter notebook viewer](https://nbviewer.jupyter.org/). Paste the
    github link into the viewer.
 
-**It's not necessary to install notebook software on your own computer**. But if
-you want to, then perhaps the easiest approach is to use [Google
+**You don't need to install notebook software on your own computer**. But if you
+want to, then probably the easiest approach is to use [Google
 Colab](https://colab.research.google.com/). You will need a (free) Google
 account to use it. Open the notebooks in [Google
 Colab](https://colab.research.google.com/), e.g. you have the option of opening
-them from Github URLs. Then you can save yuor own copies in [Google
+them from Github URLs. Then you can save your own copies in [Google
 Colab](https://colab.research.google.com/) that you can run and edit. [Google
 Colab](https://colab.research.google.com/) provides all the Python libraries you
 are likely to ever need, and you can run cells online.
