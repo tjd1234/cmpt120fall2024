@@ -36,9 +36,9 @@ that shows the remaining time in an exam.
 Most of the notes are written in Jupyter notebooks. For this course, they are
 easy to read on the web in a couple of ways.
 
-1. directly through their github web links. Just click on the Github link, e.g.
-   [lecture 1](lectures/lecture1/lecture1notes.md). 
-2. using the [Jupyter notebook viewer](https://nbviewer.jupyter.org/). Paste the
+1. Directly through their github web links. Just click on the Github link, e.g.
+   [lecture 1](lectures/lecture1/lecture1notes.md).
+2. Using the [Jupyter notebook viewer](https://nbviewer.jupyter.org/). Paste the
    github link into the viewer.
 
 **You don't need to install notebook software on your own computer**. But if you
