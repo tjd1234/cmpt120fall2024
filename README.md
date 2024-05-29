@@ -28,8 +28,7 @@ for this course.
 Here is an [exam timer](https://tjd1234.github.io/examclock/examclock.html)
 that shows the remaining time in an exam.
 
-
-## Dr. Donaldson's Lecture Notes
+## Lecture Notes (Fall 2024)
 
 **NOTE**: Dates are inaccurate and will be updated soon for the Fall 2024 semester.
 
@@ -50,6 +49,38 @@ them from Github URLs. Then you can save your own copies in [Google
 Colab](https://colab.research.google.com/) that you can run and edit. [Google
 Colab](https://colab.research.google.com/) provides all the Python libraries you
 are likely to ever need, and you can run cells online.
+
+### Week 1
+
+### Week 2
+
+### Week 3
+
+### Week 4
+
+### Week 5
+
+### Week 6
+
+### Week 7
+
+### Week 8
+
+### Week 9
+
+### Week 10
+
+### Week 11
+
+### Week 12
+
+### Week 13
+
+### Week 14
+
+---
+
+## Dr. Donaldson's Lecture Notes (Fall 2022)
 
 ### Week 1
 - [Read chapter 1: Introduction (all)](https://runestone.academy/ns/books/published/120fall2022surrey/GeneralIntro/toctree.html)
