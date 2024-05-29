@@ -33,6 +33,23 @@ that shows the remaining time in an exam.
 
 **NOTE**: Dates are inaccurate and will be updated soon for the Fall 2024 semester.
 
+Most of the notes are written in Jupyter notebooks. For this course, they are
+easy to read on the web in a couple of ways.
+
+1. directly through their github web links. Just click on the Github link, e.g.
+   [lecture 1](lectures/lecture1/lecture1notes.md). 
+2. using the [Jupyter notebook viewer](https://nbviewer.jupyter.org/). Paste the
+   github link into the viewer.
+
+**It's not necessary to install notebook software on your own computer**. But if
+you want to, then perhaps the easiest approach is to use [Google
+Colab](https://colab.research.google.com/). You will need a (free) Google
+account to use it, but it's free, and then you save the notebooks in Google
+Drive and run them in through your browser on [Google
+Colab](https://colab.research.google.com/).  [Google
+Colab](https://colab.research.google.com/) provides all the libraries you are
+likely to ever need, and you can run cells online.
+
 ### Week 1
 - [Read chapter 1: Introduction (all)](https://runestone.academy/ns/books/published/120fall2022surrey/GeneralIntro/toctree.html)
 - Wed Sept 7: [lecture 1](lectures/lecture1/lecture1notes.md)
