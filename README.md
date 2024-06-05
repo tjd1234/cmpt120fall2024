@@ -6,7 +6,7 @@ I recommend you use [the Mu Python editor](https://codewith.mu/) to run your
 Python programs. It's easy to use, and comes with all the libraries you'll need
 for this course.
 
-## Assignments
+## Assignmentsr
 
 - [Assignment 1](assignments/a1/a1.md)
 - Assignment 2
@@ -30,10 +30,15 @@ that shows the remaining time in an exam.
 
 ## Lecture Notes (Fall 2024)
 
-**NOTE**: Dates are inaccurate and will be updated soon for the Fall 2024 semester.
+**NOTE**: Dates are inaccurate and will be updated soon for the Fall 2024
+semester.
 
-Most of the notes are written in Jupyter notebooks. For this course, they are
-easy to read on the web in a couple of ways.
+Most of the notes are written in [Jupyter notebooks](https://jupyter.org/). [See
+here for an
+overview](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/jupyter_intro.ipynb)
+if you are unfamiliar with notebooks.
+
+They are easy to read on the web in a couple of ways:
 
 1. Directly through their github web links. Just click on the Github link, e.g.
    [lecture 1](lectures/lecture1/lecture1notes.md).
@@ -80,7 +85,7 @@ are likely to ever need, and you can run cells online.
 
 ---
 
-## Dr. Donaldson's Lecture Notes (Fall 2022)
+## Lecture Notes (Fall 2022)
 
 ### Week 1
 - [Read chapter 1: Introduction (all)](https://runestone.academy/ns/books/published/120fall2022surrey/GeneralIntro/toctree.html)
