@@ -6,7 +6,7 @@ I recommend you use [the Mu Python editor](https://codewith.mu/) to run your
 Python programs. It's easy to use, and comes with all the libraries you'll need
 for this course.
 
-## Assignmentsr
+## Assignments
 
 - [Assignment 1](assignments/a1/a1.md)
 - Assignment 2
