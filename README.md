@@ -52,86 +52,86 @@ easy to read on the web in a couple of ways:
 ### Week 2
 
 - Read this textbook chapter: [chapter 1](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap01.ipynb)
-- Review these lecture notes: [chapter 1 lecture notes](lecture_notes/chapter1/chapter1_lecture.ipynb)
-- Do this homework: [chapter 1 homework](lecture_notes/chapter1/homework1.ipynb) ([solutions](lecture_notes/chapter1/homework1_sol.ipynb))
+- Review these lecture notes: [chapter 1 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/chapter1_lecture.ipynb)
+- Do this homework: [chapter 1 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/homework1.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/homework1_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 3
 
 - Read this textbook chapter: [chapter 2](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap02.ipynb)
-- Review these lecture notes: [chapter 2 lecture notes](lecture_notes/chapter2/chapter2_lecture.ipynb)
-- Do this homework: [chapter 2 homework](lecture_notes/chapter2/homework2.ipynb) ([solutions](lecture_notes/chapter2/homework2_sol.ipynb))
+- Review these lecture notes: [chapter 2 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter2/chapter2_lecture.ipynb)
+- Do this homework: [chapter 2 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter2/homework2.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter2/homework2_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 4
 
 - Read this textbook chapter: [chapter 3](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap03.ipynb)
-- Review these lecture notes: [chapter 3 lecture notes](lecture_notes/chapter3/chapter3_lecture.ipynb)
-- Do this homework: [chapter 3 homework](lecture_notes/chapter3/homework3.ipynb) ([solutions](lecture_notes/chapter3/homework3_sol.ipynb))
+- Review these lecture notes: [chapter 3 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter3/chapter3_lecture.ipynb)
+- Do this homework: [chapter 3 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter3/homework3.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter3/homework3_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 5
 
 - Read this textbook chapter: [chapter 4](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap04.ipynb)
-- Review these lecture notes: [chapter 4 lecture notes](lecture_notes/chapter4/chapter4_lecture.ipynb)
-- Do this homework: [chapter 4 homework](lecture_notes/chapter4/homework4.ipynb) ([solutions](lecture_notes/chapter4/homework4_sol.ipynb))
+- Review these lecture notes: [chapter 4 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter4/chapter4_lecture.ipynb)
+- Do this homework: [chapter 4 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter4/homework4.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter4/homework4_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 6
 
 - Read this textbook chapter: [chapter 5](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap05.ipynb)
-- Review these lecture notes: [chapter 5 lecture notes](lecture_notes/chapter5/chapter5_lecture.ipynb)
-- Do this homework: [chapter 5 homework](lecture_notes/chapter5/homework5.ipynb) ([solutions](lecture_notes/chapter5/homework5_sol.ipynb))
+- Review these lecture notes: [chapter 5 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter5/chapter5_lecture.ipynb)
+- Do this homework: [chapter 5 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter5/homework5.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter5/homework5_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 7
 
 - Read this textbook chapter: [chapter 6](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap06.ipynb)
-- Review these lecture notes: [chapter 6 lecture notes](lecture_notes/chapter6/chapter6_lecture.ipynb)
-- Do this homework: [chapter 6 homework](lecture_notes/chapter6/homework6.ipynb) ([solutions](lecture_notes/chapter6/homework6_sol.ipynb))
+- Review these lecture notes: [chapter 6 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter6/chapter6_lecture.ipynb)
+- Do this homework: [chapter 6 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter6/homework6.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter6/homework6_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 8
 
 - Read this textbook chapter: [chapter 7](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap07.ipynb)
-- Review these lecture notes: [chapter 7 lecture notes](lecture_notes/chapter7/chapter7_lecture.ipynb)
-- Do this homework: [chapter 7 homework](lecture_notes/chapter7/homework7.ipynb) ([solutions](lecture_notes/chapter7/homework7_sol.ipynb))
+- Review these lecture notes: [chapter 7 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/chapter7_lecture.ipynb)
+- Do this homework: [chapter 7 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/homework7.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/homework7_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 9
 
 - Midterm exam! See Canvas for details.
 - Read this textbook chapter: [chapter 7](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap07.ipynb)
-- Review these lecture notes: [chapter 7 lecture notes](lecture_notes/chapter7/chapter7_lecture.ipynb)
-- Do this homework: [chapter 7 homework](lecture_notes/chapter7/homework7.ipynb) ([solutions](lecture_notes/chapter7/homework7_sol.ipynb))
+- Review these lecture notes: [chapter 7 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/chapter7_lecture.ipynb)
+- Do this homework: [chapter 7 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/homework7.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/homework7_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 10
 
 - Read this textbook chapter: [chapter 8](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap08.ipynb)
-- Review these lecture notes: [chapter 8 lecture notes](lecture_notes/chapter8/chapter8_lecture.ipynb)
-- Do this homework: [chapter 8 homework](lecture_notes/chapter8/homework8.ipynb) ([solutions](lecture_notes/chapter8/homework8_sol.ipynb))
+- Review these lecture notes: [chapter 8 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter8/chapter8_lecture.ipynb)
+- Do this homework: [chapter 8 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter8/homework8.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter8/homework8_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 11
 
 - Read this textbook chapter: [chapter 9](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap09.ipynb)
-- Review these lecture notes: [chapter 9 lecture notes](lecture_notes/chapter9/chapter9_lecture.ipynb)
-- Do this homework: [chapter 9 homework](lecture_notes/chapter9/homework9.ipynb) ([solutions](lecture_notes/chapter9/homework9_sol.ipynb))
+- Review these lecture notes: [chapter 9 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/chapter9_lecture.ipynb)
+- Do this homework: [chapter 9 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/homework9.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/homework9_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 12
 
 - Read this textbook chapter: [chapter 9](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap09.ipynb)
-- Review these lecture notes: [chapter 9 lecture notes](lecture_notes/chapter9/chapter9_lecture.ipynb)
-- Do this homework: [chapter 9 homework](lecture_notes/chapter9/homework9.ipynb) ([solutions](lecture_notes/chapter9/homework9_sol.ipynb))
+- Review these lecture notes: [chapter 9 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/chapter9_lecture.ipynb)
+- Do this homework: [chapter 9 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/homework9.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/homework9_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 13
 
 - Read this textbook chapter: [chapter 10](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap10.ipynb)
-- Review these lecture notes: [chapter 10 lecture notes](lecture_notes/chapter10/chapter10_lecture.ipynb)
-- Do this homework: [chapter 10 homework](lecture_notes/chapter10/homework10.ipynb) ([solutions](lecture_notes/chapter10/homework10_sol.ipynb))
+- Review these lecture notes: [chapter 10 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter10/chapter10_lecture.ipynb)
+- Do this homework: [chapter 10 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter10/homework10.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter10/homework10_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 14
