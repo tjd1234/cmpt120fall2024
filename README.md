@@ -34,7 +34,7 @@ if you are unfamiliar with notebooks.
 They are easy to read on the web in a couple of ways:
 
 1. Directly through their github web links. Just click on the Github link, e.g.
-   [lecture 1](lectures/lecture1/lecture1notes.md).
+   [chapter 0](textbook/chap00.ipynb).
 2. Using the [Jupyter notebook viewer](https://nbviewer.jupyter.org/). Paste the
    github link into the viewer.
 
