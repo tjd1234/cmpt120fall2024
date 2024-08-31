@@ -138,15 +138,15 @@ easy to read on the web in a couple of ways:
 
 ### Week 14
 
-- Read this textbook chapter: none
+- Read this textbook chapter: **none**
 - Review these lecture notes: 
-  - [linear search lecture notes](lecture_notes/chapter_algorithms/alg1_linear_search/alg1_linear_search.ipynb)
-  - [binary search lecture notes](lecture_notes/chapter_algorithms/alg2_binary_search/alg2_binary_search.ipynb)
-  - [sorting lecture notes](lecture_notes/chapter_algorithms/alg3_sorting/alg3_sorting.ipynb)
+  - [linear search lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg1_linear_search/alg1_linear_search.ipynb)
+  - [binary search lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg2_binary_search/alg2_binary_search.ipynb)
+  - [sorting lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_sorting.ipynb)
 - Do this homework:
-   - [linear search homework](lecture_notes/chapter_algorithms/alg1_linear_search/alg1_linear_search_homework.ipynb) ([solutions](lecture_notes/chapter_algorithms/alg1_linear_search/alg1_linear_search_homework_sol.ipynb))
-   - [binary search homework](lecture_notes/chapter_algorithms/alg2_binary_search/alg2_binary_search_homework.ipynb) ([solutions](lecture_notes/chapter_algorithms/alg2_binary_search/alg2_binary_search_homework_sol.ipynb))
-   - [sorting homework](lecture_notes/chapter_algorithms/alg3_sorting/alg3_sorting_homework.ipynb) ([solutions](lecture_notes/chapter_algorithms/alg3_sorting/alg3_sorting_homework_sol.ipynb))
+   - [linear search homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg1_linear_search/alg1_linear_search_homework.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg1_linear_search/alg1_linear_search_homework_sol.ipynb))
+   - [binary search homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg2_binary_search/alg2_binary_search_homework.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg2_binary_search/alg2_binary_search_homework_sol.ipynb))
+   - [sorting homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_linear_search_homework.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_linear_search_homework_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ## Exam Period: Thursday Dec 5 to Tuesday December 17
