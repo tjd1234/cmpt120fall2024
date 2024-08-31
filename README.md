@@ -41,9 +41,11 @@ easy to read on the web in a couple of ways:
 3. Use [Google Colab](https://colab.research.google.com/). You will need a
    (free) Google account to use it. You can open notebooks interactively in
    [Google Colab](https://colab.research.google.com/). You can save your own
-   copies in [Colab](https://colab.research.google.com/) that you can run and
-   edit. [Colab](https://colab.research.google.com/) provides all the Python
-   libraries you are likely to ever need, and you can run cells online. 
+   copies (e.g. [download all files a zip
+   file](https://github.com/tjd1234/cmpt120fall2024/zipball/main)) in
+   [Colab](https://colab.research.google.com/) that you can run and edit.
+   [Colab](https://colab.research.google.com/) provides all the Python libraries
+   you are likely to ever need, and you can run cells online. 
 
 ### Week 1
 
