@@ -15,8 +15,8 @@ Due dates, marks, discussions, etc. are all on Canvas.
 - [Sample Midterm coding questions](exams/120-D400midterm_coding_sample_fall2022.pdf) ([solutions](exams/120-D400midterm_coding_sample_fall2022_sol.pdf))
 - [Mini midterm](exams/120-D400mini_midterm1_fall2022.pdf) ([solutions](exams/120-D400mini_midterm1_fall2022_sol.pdf))
 - [Sample solutions to midterm exam](exams/120-D400midterm1_fall2022_sample_solutions.pdf)
-- [Zero marks list quiz](lectures/lecture24/lecture24Quiz.pdf) ([sample solutions](lectures/lecture24/lecture24Quiz_sol.pdf)) based on [lecture 24](lectures/lecture24/lecture24.md)
-- [Zero marks quiz on dictionaries](lectures/lecture30/lecture30Quiz.pdf) ([solutions](lectures/lecture30/lecture30Quiz_sol.pdf))
+- [Zero marks list quiz](exams/zeroMarksListQuiz.pdf) ([sample solutions](exams/zeroMarksListQuiz_sol.pdf))
+- [Zero marks quiz on dictionaries](exams/zeroMarksDictQuiz.pdf) ([solutions](exams/zeroMarksDictQuiz_sol.pdf))
 - [Sample final exam programming questions](exams/120-D400final_coding_sample_fall2022.pdf) ([solutions](exams/120-D400final_coding_sample_fall2022_sol.pdf))
 - [Final exam practice quiz](exams/120-D400final_practice_quiz.pdf)
 ([solutions](exams/120-D400final_practice_quiz_sol.pdf)) during class.
