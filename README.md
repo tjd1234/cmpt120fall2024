@@ -50,6 +50,7 @@ easy to read on the web in a couple of ways:
 ### Week 1 (Sept 2 to Sept 6)
 
 - Read this textbook chapter: [chapter 0](textbook/chap00.ipynb)
+- [First lecture PowerPoint slides](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/introduction/introduction.pptx)
 
 ### Week 2 (Sept 9 to Sept 13)
 
