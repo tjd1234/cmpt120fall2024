@@ -55,7 +55,7 @@ easy to read on the web in a couple of ways:
 ### Week 2 (Sept 9 to Sept 13)
 
 - Read this textbook chapter: [chapter 1](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap01.ipynb)
-- Review these lecture notes: [chapter 1 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/chapter1_lecture.ipynb)
+- Review these lecture notes: [chapter 1 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/chapter1_lecture.ipynb); [PowerPoint slides on natural/formal languages](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/chp1_languages.pptx)
 - Do this homework: [chapter 1 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/homework1.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/homework1_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
