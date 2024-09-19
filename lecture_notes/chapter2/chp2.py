@@ -2,4 +2,4 @@
 
 import webbrowser
 
-webbrowser.open('https://www.sfu.com')
+webbrowser.open('https://www.sfu.ca')

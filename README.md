@@ -55,14 +55,21 @@ easy to read on the web in a couple of ways:
 ### Week 2 (Sept 9 to Sept 13)
 
 - Read this textbook chapter: [chapter 1](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap01.ipynb)
-- Review these lecture notes: [chapter 1 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/chapter1_lecture.ipynb); [PowerPoint slides on natural/formal languages](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/chp1_languages.pptx)
+- Review these lecture notes: 
+  - [chapter 1 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/chapter1_lecture.ipynb)
+  - [PowerPoint slides shown in class](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/chp1_languages.pptx)
 - Do this homework: [chapter 1 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/homework1.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/homework1_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 3 (Sept 16 to Sept 20)
 
 - Read this textbook chapter: [chapter 2](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap02.ipynb)
-- Review these lecture notes: [chapter 2 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter2/chapter2_lecture.ipynb)
+- Review these lecture notes: 
+  - [chapter 2 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter2/chapter2_lecture.ipynb)
+  - [PowerPoint slides shown in
+    class](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/chapter2.pptx).
+    **Note**: for exams, you don't need to know about the "historical" computers
+    at the beginning of the slides.
 - Do this homework: [chapter 2 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter2/homework2.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter2/homework2_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
