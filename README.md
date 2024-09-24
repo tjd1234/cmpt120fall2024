@@ -76,7 +76,12 @@ easy to read on the web in a couple of ways:
 ### Week 4 (Sept 23 to Sept 27)
 
 - Read this textbook chapter: [chapter 3](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap03.ipynb)
-- Review these lecture notes: [chapter 3 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter3/chapter3_lecture.ipynb)
+- Review these lecture notes: 
+  - [chapter 3 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter3/chapter3_lecture.ipynb)
+  - [chapter 3 slides shown in
+    class](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter3/chapter3.pptx).
+  - Code written in class: [mult_table.py](lecture_notes/chapter3/mult_table.py), 
+    [mult_table2.py](lecture_notes/chapter3/mult_table2.py)
 - Do this homework: [chapter 3 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter3/homework3.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter3/homework3_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 

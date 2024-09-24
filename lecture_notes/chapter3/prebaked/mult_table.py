@@ -18,25 +18,21 @@
 #  10 | 10  20  30  40  50  60  70  80  90 100 
 #
 
-#
-# Print index row
-#
-print('     ', end='')
+
+# print the top index line
+print('     ', end="")
 for i in range(1, 11):
-    print(f'{i:3}', end=' ')
+    print(f'{i:3}', end=" ")
+
 print()
 
-#
-# print dashed line
-#
-print('     ' + 40 * '-')
+# print the line of dashes
+print('    ' + "-" * 40)
 
-#
-# print rest of table
-#
-for row in range(1, 11):
-    print(f'{row:2} |', end=' ')
+# print the rest of the table
+for i in range(1, 11):
+    # print row
+    print(f'{i:2} | ', end="")
     for j in range(1, 11):
-        print(f'{row*j:3}', end=' ')
+        print(f'{i * j:3}', end=" ")
     print()
-

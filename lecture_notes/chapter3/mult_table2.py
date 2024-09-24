@@ -1,4 +1,4 @@
-# mult_table.py
+# mult_table2.py
 
 #
 # Using for-loops, write a program that prints out a multiplication table that
@@ -18,25 +18,29 @@
 #  10 | 10  20  30  40  50  60  70  80  90 100 
 #
 
+N = 22
+
 #
 # Print index row
 #
+top_row = ''
+
 print('     ', end='')
-for i in range(1, 11):
-    print(f'{i:3}', end=' ')
-print()
+for i in range(1, N + 1):
+    top_row = top_row + f'{i:3} '
+
+print(top_row)
 
 #
 # print dashed line
 #
-print('     ' + 40 * '-')
+print('     ' + len(top_row) * '-')
 
 #
 # print rest of table
 #
-for row in range(1, 11):
+for row in range(1, N + 1):
     print(f'{row:2} |', end=' ')
-    for j in range(1, 11):
+    for j in range(1, N + 1):
         print(f'{row*j:3}', end=' ')
     print()
-
