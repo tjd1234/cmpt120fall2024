@@ -5,7 +5,7 @@ Due dates, marks, discussions, etc. are all on Canvas.
 ## Assignments
 
 - [Assignment 1](https://github.com/tjd1234/cmpt120fall2024/tree/main/assignments/a1/a1.ipynb)
-- Assignment 2
+- [Assignment 2](https://github.com/tjd1234/cmpt120fall2024/tree/main/assignments/a2/a2.ipynb)
 - Assignment 3
 - Assignment 4
 - Assignment 5
