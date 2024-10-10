@@ -38,7 +38,7 @@ def q1():
 # of both 3 and 5, but not multiples of 7.
 #
 def q2():
-    for i in range(1, 101):
+    for i in range(1, 1001):
         if i % 3 == 0 and i % 5 == 0 and i % 7 != 0:
             print(i)
 
