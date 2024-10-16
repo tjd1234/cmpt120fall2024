@@ -47,22 +47,36 @@ def S_loop(n):
         total += i
     return total
 
-def S(n):
+def S_recursive(n):
     if n == 0:
         return 0
     else:
-        return S(n-1) + n
+        return S_recursive(n-1) + n
 
 def S_test(num_tests):
     for i in range(num_tests + 1):
         sf = S_formula(i)
         sl = S_loop(i)
-        if sf != sl:
+        sr = S_recursive(i)
+        if not (sf == sl and sl == sr):
             print(f'Error: S_formula({i}) = {sf}')
             print(f'          S_loop({i}) = {sl}')
-            return  # bare retuen
+            print(f'     S_recursive({i}) = {sr}')
+            return  # bare return
 
     print('All tests passed!')
+
+
+
+def F(n):
+    """Returns the nth Fibonacci number.
+    """
+    if n == 0:   # base case 1
+        return 0
+    elif n == 1: # base case 2
+        return 1
+    else:        # recursive case
+        return F(n - 1) + F(n - 2)
 
 
 
