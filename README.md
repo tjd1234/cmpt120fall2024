@@ -89,6 +89,7 @@ easy to read on the web in a couple of ways:
 
 - Read this textbook chapter: [chapter 4](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap04.ipynb)
 - Review these lecture notes: [chapter 4 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter4/chapter4_lecture.ipynb)
+- [chapter 4 code written in class](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter4/chp4.py).
 - Do this homework: [chapter 4 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter4/homework4.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter4/homework4_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
@@ -96,6 +97,8 @@ easy to read on the web in a couple of ways:
 
 - Read this textbook chapter: [chapter 5](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap05.ipynb)
 - Review these lecture notes: [chapter 5 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter5/chapter5_lecture.ipynb)
+- [chapter 5 slides shown in class](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter5/chapter5.pptx).
+- [chapter 5 code written in class](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter5/chp5.py).
 - Do this homework: [chapter 5 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter5/homework5.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter5/homework5_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
@@ -103,6 +106,8 @@ easy to read on the web in a couple of ways:
 
 - Read this textbook chapter: [chapter 6](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap06.ipynb)
 - Review these lecture notes: [chapter 6 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter6/chapter6_lecture.ipynb)
+- [chapter 6 slides shown in class](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter6/chapter6.pptx).
+- [chapter 6 code written in class](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter6/chp6.py).
 - Do this homework: [chapter 6 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter6/homework6.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter6/homework6_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
