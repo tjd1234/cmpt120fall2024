@@ -13,7 +13,10 @@ Due dates, marks, discussions, etc. are all on Canvas.
 ## Sample Exams
 
 - [Sample Midterm coding questions](exams/120-D400midterm_coding_sample_fall2022.pdf) ([solutions](exams/120-D400midterm_coding_sample_fall2022_sol.pdf))
-- [Mini midterm](exams/120-D400mini_midterm1_fall2022.pdf) ([solutions](exams/120-D400mini_midterm1_fall2022_sol.pdf))
+- [Mini midterm fall 2022](exams/120-D400mini_midterm1_fall2022.pdf)
+  ([solutions](exams/120-D400mini_midterm1_fall2022_sol.pdf))
+- [Mini midterm fall 2024](exams/120-D100mini_midterm_fall2024.pdf)
+  ([solutions](exams/120-D100mini_midterm_fall2024_sol.pdf))
 - [Sample solutions to midterm exam](exams/120-D400midterm1_fall2022_sample_solutions.pdf)
 - [Zero marks list quiz](exams/zeroMarksListQuiz.pdf) ([sample solutions](exams/zeroMarksListQuiz_sol.pdf))
 - [Zero marks quiz on dictionaries](exams/zeroMarksDictQuiz.pdf) ([solutions](exams/zeroMarksDictQuiz_sol.pdf))
@@ -113,9 +116,16 @@ easy to read on the web in a couple of ways:
 
 ### Week 8 (Oct 21 to Oct 25)
 
+- Please note that this week includes the topic of **while loops**. For some
+  reason, the textbook does not cover while-loops, so please so the lecture
+  notes and PowerPoint presentation.
 - Read this textbook chapter: [chapter 7](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap07.ipynb)
 - Review these lecture notes: [chapter 7 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/chapter7_lecture.ipynb)
+- [chapter 7 slides shown in class](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/chapter7.pptx).
+- [chapter 7 code written in class](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/chp7.py).
 - Do this homework: [chapter 7 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/homework7.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/homework7_sol.ipynb))
+- In Wednesday's lecture we did an in-class "mini midterm" activity:
+  [Mini-midterm questions](exams/120-D100mini_midterm_fall2024.pdf) ([solutions](exams/120-D100mini_midterm_fall2024_sol.pdf)).
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 9 (Oct 28 to Nov 1)
