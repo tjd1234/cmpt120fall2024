@@ -116,9 +116,9 @@ easy to read on the web in a couple of ways:
 
 ### Week 8 (Oct 21 to Oct 25)
 
-- Please note that this week includes the topic of **while loops**. For some
-  reason, the textbook does not cover while-loops, so please so the lecture
-  notes and PowerPoint presentation.
+- This week includes the topic of **while loops**. For some reason, the textbook
+  does not cover while-loops, so please see the lecture notes and PowerPoint
+  presentation.
 - Read this textbook chapter: [chapter 7](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap07.ipynb)
 - Review these lecture notes: [chapter 7 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/chapter7_lecture.ipynb)
 - [chapter 7 slides shown in class](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/chapter7.pptx).
