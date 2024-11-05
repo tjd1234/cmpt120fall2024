@@ -133,6 +133,7 @@ easy to read on the web in a couple of ways:
 - Midterm exam! See Canvas for details.
 - Read this textbook chapter: [chapter 7](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap07.ipynb)
 - Review these lecture notes: [chapter 7 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/chapter7_lecture.ipynb)
+- [chapter 7 slides shown in class](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/chapter7.pptx).
 - Do this homework: [chapter 7 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/homework7.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/homework7_sol.ipynb))
 - No weekly quiz this week.
 
@@ -140,11 +141,12 @@ easy to read on the web in a couple of ways:
 
 - Read this textbook chapter: [chapter 8](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap08.ipynb)
 - Review these lecture notes: [chapter 8 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter8/chapter8_lecture.ipynb)
+- [chapter 8 slides shown in class](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter8/chapter8.pptx).
 - Do this homework: [chapter 8 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter8/homework8.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter8/homework8_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 11 (Nov 11 to Nov 15)
-
+- November 11 is [Remembrance Day](https://en.wikipedia.org/wiki/Remembrance_Day), so no class on Monday (SFU is closed).
 - Read this textbook chapter: [chapter 9](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap09.ipynb)
 - Review these lecture notes: [chapter 9 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/chapter9_lecture.ipynb)
 - Do this homework: [chapter 9 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/homework9.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/homework9_sol.ipynb))
