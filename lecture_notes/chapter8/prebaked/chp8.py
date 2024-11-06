@@ -48,9 +48,8 @@ def test_same2():
     assert same2('', 'a') == False
     print(' ...all same2 tests passed')
 
-test_same1()
-test_same2()
-
+# test_same1()
+# test_same2()
 
 ######################################
 
@@ -72,7 +71,7 @@ def test_reverse1():
     assert reverse1('racecar') == 'racecar'
     print(' ...all reverse1 tests passed')
 
-test_reverse1()
+# test_reverse1()
 
 def reverse2(s):
     """Returns a copy of s in reverse order.
@@ -111,4 +110,32 @@ def test_is_palindrome():
     assert is_palindrome('hello, world!') == False
     print(' ...all is_palindrome tests passed')
 
-test_is_palindrome()
+# test_is_palindrome()
+
+######################################
+
+def todo_example():
+    #
+    # # Open 'todo_list.txt' for writing.
+    #
+    # If 'todo_list.txt' does not exist, it will be created.
+    # If 'todo_list.txt' already exist, it will be over-written.
+    #
+    todo_file = open('todo_list.txt', 'w')
+
+    todo_file.write('How to succeed:\n')
+    todo_file.write('1. Learn to write poems.\n')
+    todo_file.write('2. Get a job at a poetry company.\n')
+    todo_file.write('3. Profit!\n')
+
+    # close it when done writing
+    todo_file.close()
+
+    #
+    # Print the contents of the file.
+    #
+    todo_file = open('todo_list.txt', 'r')  # 'r' for reading (optional)
+    for line in todo_file:
+        print(line, end='')  # end='' to avoid double spacing
+
+todo_example()
