@@ -119,4 +119,33 @@ def test_is_palindrome():
     assert is_palindrome('hello, world!') == False
     print(' ...all is_palindrome tests passed')
 
-test_is_palindrome()
+# test_is_palindrome()
+
+def todo_example():
+    #
+    # Open 'todo_list.txt' for writing, and write some stuff to it.
+    #
+    # If 'todo_list.txt' does not exist, it will be created.
+    # If 'todo_list.txt' already exist, it will be over-written.
+    #
+    todo_file = open('todo_list.txt', 'w')  # 'w' for writing
+
+    todo_file.write('How to succeed:\n')
+    todo_file.write('- Learn to write poems.\n')
+    todo_file.write('- Get a job at a poetry company.\n')
+    todo_file.write('- Profit!\n')
+
+    # close it when done writing
+    todo_file.close()
+
+    #
+    # Print the contents of the file.
+    #
+    todo_file = open('todo_list.txt', 'r')  # 'r' for reading (optional)
+    for line in todo_file:
+        print(line, end='')  # end='' to avoid double spacing
+    
+    todo_file.close()  # close the file when done reading
+                       # if we did put this Python would close it for us
+
+todo_example()
