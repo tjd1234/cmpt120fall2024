@@ -154,19 +154,12 @@ easy to read on the web in a couple of ways:
 
 ### Week 12 (Nov 18 to Nov 22)
 
-- Read this textbook chapter: [chapter 9](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap09.ipynb)
-- Review these lecture notes: [chapter 9 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/chapter9_lecture.ipynb)
-- Do this homework: [chapter 9 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/homework9.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/homework9_sol.ipynb))
-- Write the weekly Canvas quiz on Friday!
-
-### Week 13 (Nov 25 to Nov 29)
-
 - Read this textbook chapter: [chapter 10](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap10.ipynb)
 - Review these lecture notes: [chapter 10 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter10/chapter10_lecture.ipynb)
 - Do this homework: [chapter 10 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter10/homework10.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter10/homework10_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
-### Week 14 (Dec 2 to Dec 6)
+### Week 13 (Nov 25 to Nov 29)
 
 - Read this textbook chapter: **none**
 - Review these lecture notes: 
@@ -179,7 +172,11 @@ easy to read on the web in a couple of ways:
    - [sorting homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_linear_search_homework.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_linear_search_homework_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
+### Week 14 (Dec 2 to Dec 6)
+
+- Extra time for algorithms if needed.
+- Review and practice for the final exam.
+
 ## Exam Period: Thursday Dec 5 to Tuesday December 17
 
-The day and time of the CMPT 120 final exam will be announced by the university
-part way through the semester, and is published on Canvas.
+See the Canvas website for the final exam details.
