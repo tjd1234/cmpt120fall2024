@@ -1,5 +1,8 @@
 # chp8.py
 
+def file_write_test():
+    
+
 def same1(s, t):
     """Returns True if s == t, False otherwise.
     Only uses ==, !=, etc. to compare single characters.
@@ -103,10 +106,8 @@ def is_palindrome(s):
     """Returns True if s is a palindrome (i.e. equal to its 
     reverse), False otherwise.
     """
-    if same1(s, reverse1(s)):
-        return True
-    else:
-        return False
+    return s == s[::-1]
+    #return same1(s, reverse1(s))
 
 def test_is_palindrome():
     print('testing is_palindrome ...')
@@ -120,32 +121,3 @@ def test_is_palindrome():
     print(' ...all is_palindrome tests passed')
 
 # test_is_palindrome()
-
-def todo_example():
-    #
-    # Open 'todo_list.txt' for writing, and write some stuff to it.
-    #
-    # If 'todo_list.txt' does not exist, it will be created.
-    # If 'todo_list.txt' already exist, it will be over-written.
-    #
-    todo_file = open('todo_list.txt', 'w')  # 'w' for writing
-
-    todo_file.write('How to succeed:\n')
-    todo_file.write('- Learn to write poems.\n')
-    todo_file.write('- Get a job at a poetry company.\n')
-    todo_file.write('- Profit!\n')
-
-    # close it when done writing
-    todo_file.close()
-
-    #
-    # Print the contents of the file.
-    #
-    todo_file = open('todo_list.txt', 'r')  # 'r' for reading (optional)
-    for line in todo_file:
-        print(line, end='')  # end='' to avoid double spacing
-    
-    todo_file.close()  # close the file when done reading
-                       # if we did put this Python would close it for us
-
-todo_example()
