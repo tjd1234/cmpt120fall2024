@@ -23,6 +23,7 @@ Due dates, marks, discussions, etc. are all on Canvas.
 - [Sample final exam programming questions](exams/120-D400final_coding_sample_fall2022.pdf) ([solutions](exams/120-D400final_coding_sample_fall2022_sol.pdf))
 - [Final exam practice quiz](exams/120-D400final_practice_quiz.pdf)
 ([solutions](exams/120-D400final_practice_quiz_sol.pdf)) during class.
+- [Final exam practice questions Fall 2024](exams/120-fall2024_microfinal.pdf) ([solutions](exams/120-fall2024_microfinal_sol.pdf))
 
 Here is an [exam timer](https://tjd1234.github.io/examclock/examclock.html)
 that shows the remaining time in an exam.
