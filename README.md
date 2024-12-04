@@ -181,8 +181,8 @@ easy to read on the web in a couple of ways:
 
 - Read this textbook chapter: **none**
 - [linear search slides shown in class](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/sorting.pptx).
-- [sorting lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_sorting.ipynb)
-- [sorting homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_linear_search_homework.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_linear_search_homework_sol.ipynb))
+- Review these lecture notes: [sorting lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_sorting.ipynb)
+- Do this homework: [sorting homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_linear_search_homework.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_linear_search_homework_sol.ipynb))
 - Write the weekly Canvas quiz before midnight Friday!
 
 
