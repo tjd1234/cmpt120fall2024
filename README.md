@@ -150,34 +150,41 @@ easy to read on the web in a couple of ways:
 ### Week 11 (Nov 11 to Nov 15)
 - November 11 is [Remembrance Day](https://en.wikipedia.org/wiki/Remembrance_Day), so no class on Monday (SFU is closed).
 - Read this textbook chapter: [chapter 9](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap09.ipynb)
+- [chapter 9 slides shown in class](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/chapter9.pptx).
 - Review these lecture notes: [chapter 9 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/chapter9_lecture.ipynb)
 - Do this homework: [chapter 9 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/homework9.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/homework9_sol.ipynb))
 - No weekly quiz this week.
 
 ### Week 12 (Nov 18 to Nov 22)
-
 - Read this textbook chapter: [chapter 10](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap10.ipynb)
 - Review these lecture notes: [chapter 10 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter10/chapter10_lecture.ipynb)
+- [chapter 10 slides shown in class](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter10/chapter10.pptx).
 - Do this homework: [chapter 10 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter10/homework10.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter10/homework10_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 13 (Nov 25 to Nov 29)
 
 - Read this textbook chapter: **none**
-- Review these lecture notes: 
+- [linear search slides shown in class](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg1_linear_search/linear_search.pptx).
+- [binary search slides shown in class](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg2_binary_search/binary_search.pptx).
+- Review these lecture notes:
   - [linear search lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg1_linear_search/alg1_linear_search.ipynb)
   - [binary search lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg2_binary_search/alg2_binary_search.ipynb)
-  - [sorting lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_sorting.ipynb)
+  
 - Do this homework:
    - [linear search homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg1_linear_search/alg1_linear_search_homework.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg1_linear_search/alg1_linear_search_homework_sol.ipynb))
    - [binary search homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg2_binary_search/alg2_binary_search_homework.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg2_binary_search/alg2_binary_search_homework_sol.ipynb))
-   - [sorting homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_linear_search_homework.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_linear_search_homework_sol.ipynb))
+  
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 14 (Dec 2 to Dec 6)
 
-- Extra time for algorithms if needed.
-- Review and practice for the final exam.
+- Read this textbook chapter: **none**
+- [linear search slides shown in class](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/sorting.pptx).
+- [sorting lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_sorting.ipynb)
+- [sorting homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_linear_search_homework.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_linear_search_homework_sol.ipynb))
+- Write the weekly Canvas quiz before midnight Friday!
+
 
 ## Exam Period: Thursday Dec 5 to Tuesday December 17
 
