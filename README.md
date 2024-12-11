@@ -188,4 +188,6 @@ easy to read on the web in a couple of ways:
 
 ## Exam Period: Thursday Dec 5 to Tuesday December 17
 
+- [Review questions](https://github.com/tjd1234/cmpt120fall2024/blob/main/private/experiments/review_questions/reviewQuestions.ipynb)
+
 See the Canvas website for the final exam details.
